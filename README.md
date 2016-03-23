@@ -6,19 +6,19 @@ amazeui gem is a Rails assets wrapper of Amaze Ui.
 in Gemfile
 
 ```ruby
-gem 'simditor'
+gem 'amazeui'
 ```
 
 in application.js
 
 ```js
-//= require simditor
+//= require amazeui
 ```
 
 in application.css
 
 ```css
- *= require simditor
+ *= require amazeui
 ```
 
 ## Usage
