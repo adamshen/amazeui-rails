@@ -13,5 +13,5 @@ Gem::Specification.new do |spec|
   spec.description = "Rails assets wrapper for Amaze Ui"
   spec.homepage = "https://github.com/adamshen/amazeui-rails"
   spec.license = "MIT"
-  spec.files = Dir["{lib,assets}/**/*"] + ["LICENSE.txt", "README.md"]
+  spec.files = Dir["{lib,vendor}/**/*"] + ["LICENSE.txt", "README.md"]
 end
