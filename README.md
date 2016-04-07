@@ -12,12 +12,15 @@ gem 'amazeui'
 ##File list
 
 ###fonts
+
+```
 FontAwesome.otf
 fontawesome-webfont.eot
 fontawesome-webfont.svg
 fontawesome-webfont.ttf
 fontawesome-webfont.woff
 fontawesome-webfont.woff2
+```
 
 ###css
 
